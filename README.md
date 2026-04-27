@@ -1,4 +1,4 @@
-# C# SVU_Guide
+# SVU_Guide
 
 موقع بسيط لاستعراض أهم الفعاليات في الجامعة الافتراضية السورية
 
@@ -17,6 +17,7 @@
 
 - HTML
 - Java Script
+- CSS
 - Bootstrap
 
 ---
