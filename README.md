@@ -24,15 +24,15 @@
 
 ## Project Structure
 
-/assets
-  /css 	-> styles.css
-  /js	-> main.js
-  /img	صور فعاليات الموقع - مدراء الموقع - مواقع الفعاليات
-index
-events
--event
-about us
-contact us
+-/assets
+-  /css 	-> styles.css
+-  /js	-> main.js
+-  /img	صور فعاليات الموقع - مدراء الموقع - مواقع الفعاليات
+-index
+-events
+--event
+-about us
+-contact us
 
 ---
 
