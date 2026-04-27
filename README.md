@@ -15,9 +15,9 @@
 
 ## Technologies Used
 
-- HTML
-- Java Script
-- CSS
+- ```HTML
+- ```Java Script
+- ```CSS
 - Bootstrap
 
 ---
