@@ -39,5 +39,3 @@
 ## Authors
 
 - Sinan Salameh
-- Luna Al Issa
-- Nibal Al Madani
